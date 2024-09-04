@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: 'mrapaport/gymcore:latest'
+    image: 'marianrap/gymcore:latest'
     ports:
       - "8080:8080"
     environment:
